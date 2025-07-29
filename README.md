@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eli</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Django developer</h3>
 
 - 🔭 I’m currently working on [https://github.com/EliArn99/Smart_Inventory_Store](https://github.com/EliArn99/Learning-Management-System-)
 
