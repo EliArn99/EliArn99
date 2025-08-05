@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eli</h1>
 <h3 align="center">A passionate Django developer</h3>
 
-- 🔭 I’m currently working on [https://github.com/EliArn99/Smart_Inventory_Store](https://github.com/EliArn99/Learning-Management-System-)
+- 🔭 I’m currently working on [https://github.com/EliArn99/Smart_Inventory_Store]((https://github.com/EliArn99/Smart_Inventory_Store))
 
 - 👨‍💻 All of my projects are available at [https://github.com/EliArn99](https://github.com/EliArn99)
 
