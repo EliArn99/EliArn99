@@ -1,79 +1,77 @@
-<h1 align="center">Hi 👋, I'm Eli</h1>
-<h3 align="center">Django Developer • Building practical web apps</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/EliArn99">GitHub</a> •
-  <a href="https://github.com/EliArn99?tab=repositories">Projects</a> •
-  <a href="mailto:eli_arnaytska@abv.bg">eli_arnaytska@abv.bg</a>
-</p>
+# 👋 Hello, I'm Eli Arnautska
 
----
+### **Django Developer** • **Full-Stack Builder** • **Problem Solver**
 
-### 👩‍💻 About me
-- 🧩 I build web applications with **Django**, focusing on clean architecture, security, and maintainability  
-- 🚀 Currently working on: **Smart Inventory Store**  
-  👉 https://github.com/EliArn99/Smart_Inventory_Store  
-- 📌 All projects: https://github.com/EliArn99
+[![Portfolio](https://img.shields.io/badge/🌐_Projects-Portfolio-blue)](https://github.com/EliArn99?tab=repositories)
+[![Email](https://img.shields.io/badge/📧_Contact-Email-red)](mailto:eli_arnaytska@abv.bg)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-Profile-black)](https://github.com/EliArn99)
 
 ---
 
-### 🛠️ Tech stack
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-</p>
+## 🚀 **Currently Building**
 
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-</p>
+<div align="center">
+
+### 🏪 **Smart Inventory Store**
+**A comprehensive inventory management system with Django**
+[![View Project](https://img.shields.io/badge/🔗_View_Project-GitHub-green)](https://github.com/EliArn99/Smart_Inventory_Store)
+
+</div>
+
+## 🛠 **Tech Stack & Tools**
+
+<div align="center">
+
+### **Backend & Database**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Frontend & UI**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+## 📈 **Current Focus**
+
+<div align="center">
+
+| Area | Status | Goal |
+|------|--------|------|
+| **Django Best Practices** | 🔄 In Progress | Clean architecture & security |
+| **PostgreSQL Optimization** | 🔄 In Progress | Performance & deployment |
+| **Dashboard Development** | 🔄 In Progress | User-friendly interfaces |
+| **Full-Stack Applications** | 🔄 In Progress | End-to-end solutions |
+
+</div>
+
+## 📬 **Let's Connect**
+
+<div align="center">
+
+💼 **Looking for:** Exciting Django projects & collaborations  
+📧 **Email:** [eli_arnaytska@abv.bg](mailto:eli_arnaytska@abv.bg)  
+💻 **GitHub:** [@EliArn99](https://github.com/EliArn99)
+
+</div>
 
 ---
+<div align="center">
 
-### 📌 What I'm improving right now
-- ✅ Django best practices (permissions, testing, clean architecture)
-- ✅ PostgreSQL + deployment workflows
-- ✅ Building dashboards & CRUD apps with good UX
+⭐ **"Building software that solves real problems, one line at a time."** ⭐
 
----
-
-### 📫 Contact
-- Email: **eli_arnaytska@abv.bg**
+</div>
