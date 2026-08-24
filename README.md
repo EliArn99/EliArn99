@@ -1,51 +1,119 @@
 <div align="center">
 
-# 🚀 Eli Arnautska
+# Eli Arnautska
 
-### **Building Digital Solutions with Django**
+### Python & Django Developer
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Eli%20Arnautska&fontSize=40&fontAlignY=35)
+Building practical web applications with Django, PostgreSQL and Docker.
 
-[![GitHub Stars](https://img.shields.io/github/stars/EliArn99?label=Stars&style=social)](https://github.com/EliArn99)
-[![Projects](https://img.shields.io/badge/%F0%9F%93%96_Projects-View_All-blue)](https://github.com/EliArn99?tab=repositories)
-[![Email](https://img.shields.io/badge/%F0%9F%93%A7_Contact-eli_arnaytska@abv.bg-red)](mailto:eli_arnaytska@abv.bg)
+[GitHub](https://github.com/EliArn99) •
+[Repositories](https://github.com/EliArn99?tab=repositories) •
+[Email](mailto:eli_arnaytska@abv.bg)
 
 </div>
 
 ---
 
-## 🔥 **Highlight Project**
+## 👩‍💻 About Me
+
+Python & Django developer focused on building practical business applications.
+
+I enjoy working on backend development, database design, authentication,
+business logic and reporting systems.
+
+Currently, I am developing applications that solve real business problems,
+with a focus on clean architecture, maintainability and understandable code.
+
+---
+
+## 🚀 Featured Projects
+
+### 🚚 Mini TMS — BIEN TRANS
+
+**Transport Management System for a small family transport business**
+
+A Django-based system designed to support the daily workflow of a transport company.
+
+**Key features:**
+- Transport booking management
+- Admin / Driver role-based access
+- Driver assignment and transport status workflow
+- Trip sheets and route stops
+- Transport document tracking
+- CMR PDF generation
+- Income and expense management
+- Operational and financial reports
+- CSV / XLSX export
+- PostgreSQL and Docker support
+
+**Tech:** `Python` `Django` `PostgreSQL` `Docker` `Bootstrap` `JavaScript`
+
+[View Project](https://github.com/EliArn99/TMS)
+
+---
+
+### 🏪 Smart Inventory Store
+
+**Inventory Management System**
+
+A web application for managing inventory, products and business operations.
+
+**Key features:**
+- Inventory management
+- User authentication
+- Database-backed product management
+- Reporting and dashboard functionality
+
+**Tech:** `Python` `Django` `PostgreSQL`
+
+[View Project](https://github.com/EliArn99/Smart_Inventory_Store)
+
+---
+
+## 🛠 Tech Stack
 
 <div align="center">
 
-### 🏪 **Smart Inventory Store**
-**A full-featured inventory management system**
-
-| Feature | Status | Tech Used |
-|---------|--------|-----------|
-| Inventory Management | ✅ Complete | Django, PostgreSQL |
-| User Authentication | ✅ Complete | Django Auth |
-| Reporting Dashboard | ✅ Complete | Charts, Analytics |
-| Deployment Ready | ✅ Complete | Docker, AWS |
-
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-000?style=for-the-badge&logo=github)](https://github.com/EliArn99/Smart_Inventory_Store)
+<img src="https://skillicons.dev/icons?i=python,django,postgresql,html,css,bootstrap,js,docker,git,github" />
 
 </div>
 
-## 💻 **Tech Stack Gallery**
+### Backend
+`Python` • `Django`
+
+### Databases
+`PostgreSQL` • `SQLite`
+
+### Frontend
+`HTML` • `CSS` • `Bootstrap` • `JavaScript`
+
+### Tools
+`Docker` • `Git` • `GitHub`
+
+---
+
+## 🎯 Currently Focused On
+
+- Django backend development
+- REST APIs
+- PostgreSQL and database design
+- Authentication and authorization
+- Docker
+- Automated testing
+- Clean and maintainable application architecture
+
+---
+
+## 📫 Contact
+
+**Email:** [eli_arnaytska@abv.bg](mailto:eli_arnaytska@abv.bg)
+
+**GitHub:** [github.com/EliArn99](https://github.com/EliArn99)
+
+---
 
 <div align="center">
 
-### **Backend Development**
-<img src="https://skillicons.dev/icons?i=python,django,flask" title="Backend Technologies" alt="Backend Technologies" />
-
-### **Databases**
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" title="Databases" alt="Databases" />
-
-### **Frontend & UI**
-<img src="https://skillicons.dev/icons?i=js,react,html,css,bootstrap" title="Frontend Technologies" alt="Frontend Technologies" />
-
-### **DevOps & Tools**
-<img src="https://skillicons.dev/icons?i=docker,git,aws,github" title="DevOps Tools" alt="DevOps Tools" />
+### Thanks for visiting my profile 👋
 
 </div>
